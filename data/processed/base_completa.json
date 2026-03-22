@@ -1,17 +1,21 @@
 [
   {
     "nome": "ARI MARTINI",
-    "num_aviarios": 0,
+    "num_aviarios": 2,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/0a7beed061edc487c50bfcf16921ffa8/timeline",
-    "aviarios": [],
+    "aviarios": [
+      "415",
+      "548"
+    ],
     "arquivo_origem": "AgroCenter - Perfil MARLI.html"
   },
   {
     "nome": "MAURICIO JAIR LEITZKE",
-    "num_aviarios": 1,
+    "num_aviarios": 2,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/28e110390aa2d82eb452b7a4187cb8c9/timeline/ddab946af3ade77dd2f8c1ca30c59283/31",
     "aviarios": [
-      "1126"
+      "1126",
+      "595"
     ],
     "arquivo_origem": "AgroCenter - Perfil MARLI.html"
   },
@@ -39,14 +43,17 @@
   },
   {
     "nome": "FLORINDO MELCHIOTTI",
-    "num_aviarios": 0,
+    "num_aviarios": 2,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/0b4654ff984afa8601ad4d3d90752306/timeline",
-    "aviarios": [],
+    "aviarios": [
+      "1155",
+      "710"
+    ],
     "arquivo_origem": "AgroCenter - Perfil ISABELA.html"
   },
   {
     "nome": "VALDIR ANOR DE ASSIS",
-    "num_aviarios": 6,
+    "num_aviarios": 8,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/6c05aa0012df4aa4609f7a83619b8e25/timeline/34d8239a7d4cb9a784e31f86d79b8515/15",
     "aviarios": [
       "1114",
@@ -54,19 +61,25 @@
       "1237",
       "1238",
       "1239",
-      "1240"
+      "1240",
+      "805",
+      "806"
     ],
     "arquivo_origem": "AgroCenter - Perfil ERICK.html"
   },
   {
     "nome": "JAIME BASSO",
-    "num_aviarios": 4,
+    "num_aviarios": 8,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/9021b60360faf2a51747d23a254cf24f/timeline/9883a326d8795ccda7c7b8ff4b9a5656/18",
     "aviarios": [
       "1281",
       "1282",
       "1283",
-      "1284"
+      "1284",
+      "1346",
+      "1347",
+      "1348",
+      "1349"
     ],
     "arquivo_origem": "AgroCenter - Perfil ERICK.html"
   },
@@ -100,19 +113,31 @@
   },
   {
     "nome": "EDEMAR JOSE BURIN",
-    "num_aviarios": 0,
+    "num_aviarios": 7,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/3eb5fe12aa60096bccf31011c9271893/timeline",
-    "aviarios": [],
+    "aviarios": [
+      "1064",
+      "313",
+      "556",
+      "693",
+      "812",
+      "813",
+      "978"
+    ],
     "arquivo_origem": "AgroCenter - Perfil ARION.html"
   },
   {
     "nome": "MAYKON GENESIO BUTTINI",
-    "num_aviarios": 5,
+    "num_aviarios": 9,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/ef1b7a00b3f0f7fe7fecce8bb16b52fe/timeline/de8106786b38d65be6c810fa051fa630/51",
     "aviarios": [
       "1001",
       "1002",
       "1120",
+      "1351",
+      "1352",
+      "1353",
+      "1354",
       "870",
       "871"
     ],
@@ -120,9 +145,12 @@
   },
   {
     "nome": "HUMBERTO PIOVESAN",
-    "num_aviarios": 0,
+    "num_aviarios": 2,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/9059ebe1f561c8e60399384f637c8125/timeline",
-    "aviarios": [],
+    "aviarios": [
+      "659",
+      "660"
+    ],
     "arquivo_origem": "AgroCenter - Perfil MURILO.html"
   },
   {
@@ -136,10 +164,13 @@
   },
   {
     "nome": "EVANDRO TICIANELO",
-    "num_aviarios": 1,
+    "num_aviarios": 4,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/afcf1dbc39a1ad49f222e08d8d7a8f3c/timeline/f3282f99404e26529974040aa3fd5f5b/46",
     "aviarios": [
-      "1062"
+      "1011",
+      "1062",
+      "708",
+      "739"
     ],
     "arquivo_origem": "AgroCenter - Perfil RODOLFO.html"
   },
@@ -157,16 +188,23 @@
   },
   {
     "nome": "ANTONIO FRANCISCO PAVANELI",
-    "num_aviarios": 0,
+    "num_aviarios": 1,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/2be6054ae947c554a9a249d76dbacb6d/timeline",
-    "aviarios": [],
+    "aviarios": [
+      "1158"
+    ],
     "arquivo_origem": "AgroCenter - Perfil RODRIGO.html"
   },
   {
     "nome": "GILBERTO ARALDI",
-    "num_aviarios": 0,
+    "num_aviarios": 4,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/f15c0b9bd948f2144619c4225c8b64c0/timeline",
-    "aviarios": [],
+    "aviarios": [
+      "196",
+      "305",
+      "858",
+      "859"
+    ],
     "arquivo_origem": "AgroCenter - Perfil INAIARA.html"
   },
   {
@@ -186,1392 +224,101 @@
     "arquivo_origem": "AgroCenter - Perfil INAIARA.html"
   },
   {
-    "nome": "ROBERTO  MINORU YASUE",
-    "num_aviarios": 1,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/2e5e6f4a8db825277a6ed52683e3a873/timeline/7ae7576df0f8bf7db9ada48c56a8331d/54",
-    "aviarios": [
-      "1024"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "RENAN GENERO",
-    "num_aviarios": 1,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/a3ece694e37ad2b58c445cb1f6480ac0/timeline/e58e7100aa659f5479ff5f10052f4881/163",
-    "aviarios": [
-      "215"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "AIRTON LUIZ BONAFIN",
-    "num_aviarios": 1,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/ae1aa9685598c66805f2a28aa06aded6/timeline/767fc1c615c0ab5a782f1d20e37dc515/58",
-    "aviarios": [
-      "945"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "MARCELO DOUGLAS BENDER",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/ff7c6a4498cae60123a6d5b0783cd7fa/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "CLODOALDO SILVA DOS SANTOS",
-    "num_aviarios": 1,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/a51f04cdfa0ee65275b5bbd6dc475553/timeline/6e57203a105cb73c8700330c000ad211/102",
-    "aviarios": [
-      "643"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "SÉRGIO LUIZ BERTOLDI",
-    "num_aviarios": 4,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/7cd9d15ca634182de884a40c24341c8d/timeline/3810bfe076936d7adc7fe166fa24839f/164",
-    "aviarios": [
-      "112",
-      "275",
-      "322",
-      "677"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "PAULO FRANCISCO CORBARI",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/27b890d22e674e4942b18fe40c49bf0d/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "PEDRO JOSE HILZENDEGER",
-    "num_aviarios": 3,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/854798a406d829cb4f85bd97f10b20d1/timeline/904d5fa05c03278a2b5028708c717fec/122",
-    "aviarios": [
-      "1083",
-      "450",
-      "490"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "WILSON DOMINGUES DO AMARAL",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/cf50da1419b6b5cf5bbf1dd3bd292ea6/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "LEANDRO FEHMBERGER",
-    "num_aviarios": 2,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/d9b2ca0d763465f9826c0cfc3433300f/timeline/0a13048dbb08d9ee73669009537b1ffb/176",
-    "aviarios": [
-      "139",
-      "786"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "GILBERTO MASSAO BALDO",
-    "num_aviarios": 2,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/1621fe55b167bd7e3c6140014ec66ea1/timeline/0a8b9f745bc7b72dab9f6aade8928849/100",
-    "aviarios": [
-      "705",
-      "809"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "FRANCISCO ANTÔNIO CRIPA",
-    "num_aviarios": 5,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/e629465ca4a6ebb7adbc5944f4015261/timeline/ec6cb4cc98846554ec7a09f8bdc88fe5/74",
-    "aviarios": [
-      "1285",
-      "1286",
-      "1287",
-      "892",
-      "893"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "CLACI KRAMPE",
-    "num_aviarios": 10,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/7b7763bbfa87a6b959bc95bd604fdaae/timeline/d92034f5edf2e0a4b1e2d3ffce0ff1f5/161",
-    "aviarios": [
-      "1044",
-      "1045",
-      "365",
-      "366",
-      "376",
-      "512",
-      "618",
-      "793",
-      "794",
-      "980"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "RONALDO JOÃO VENDRAME",
-    "num_aviarios": 6,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/20999bf42f60a643fc0852414bd2e8bd/timeline/20a166cf9bb8dbcc9c8a167f654385e2/175",
-    "aviarios": [
-      "172",
-      "240",
-      "530",
-      "720",
-      "926",
-      "927"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ALBERTINO AFONSO BRANCO",
-    "num_aviarios": 3,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/d0aed1e3658777e8be50f3c3e997e927/timeline/ff339f6486a4f41fc702cd48eceb0d99/110",
-    "aviarios": [
-      "503",
-      "504",
-      "868"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "JOSÉ HENRIQUE BORSATTO",
-    "num_aviarios": 1,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/9ecb8f45b658b203b59acb9dfcba6056/timeline/c00c9e6cf9b9bfce177445d83fa52676/81",
-    "aviarios": [
-      "817"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "SANDRO TAGLIARI",
-    "num_aviarios": 2,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/4bb9bc04d3221628d9c236a417a22dd8/timeline/89d47f2d572e950829de8bd3aaee22e0/29",
-    "aviarios": [
-      "1195",
-      "1196"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "DORVAL CONCI",
-    "num_aviarios": 3,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/5f66f02adbce411d3d7def8677abb35e/timeline/33a4017b98f71c9256dca3ba567024b1/122",
-    "aviarios": [
-      "423",
-      "424",
-      "474"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "JAIR SOARES DE OLIVEIRA",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/4202eac76f85f335db425a3c0ea8a368/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "EVANILDO GIESELER",
-    "num_aviarios": 1,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/bdb43d218cda35e2a1718ca8bb21f45b/timeline/aa2f872fc53079bb7192e87034c79d78/85",
-    "aviarios": [
-      "785"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "GERVASIO RIBEIRO MORAES",
-    "num_aviarios": 2,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/c01f2181531f45898475aa56c6a1f7b7/timeline/93b71f08cf603830daa1853557cf51ca/28",
-    "aviarios": [
-      "1133",
-      "1134"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "DOMINGOS BONANI",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/d9771f3451ae7c96ec026f3bc4d59dc7/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "MARCELO MORILHA TELES",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/9bf4e560b1d65368a51a2d8642d6e8b0/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "LEONICE FRIEDRICH",
-    "num_aviarios": 4,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/e9e821221f75e3551214cfafebcd7474/timeline/027d7fbbd12e9771adef2c8fca87dcdd/29",
-    "aviarios": [
-      "1186",
-      "1187",
-      "1188",
-      "1189"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "JOAO VALERO EGIDO",
-    "num_aviarios": 1,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/763a4b31b45f747b056c8360a30bc466/timeline/63544da004e51a8f2cdc4173ffa65c69/18",
-    "aviarios": [
-      "1295"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "SANDRO ANDRÉ RICHTER",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/d3ac59562a37f4d7499274160be908cc/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ANDERSON CRISTIANO HERMES",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/d1fa675509ed62d0f8a66f0bb609dc09/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "SILVANE CALGARO SANTOS",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/e23c7e495a138a58e07ede86a0c2bfa8/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "DIRCEU DOS SANTOS",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/46df54139982de35f9ee0a6aa95c720f/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "VOLNEI BENETTI",
-    "num_aviarios": 5,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/7ac8ebdb084e72a47b704c27abf370ad/timeline/3db94c7af8915ce00b88d35183e09ccb/175",
-    "aviarios": [
-      "195",
-      "646",
-      "647",
-      "648",
-      "719"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ERNI ARNDT",
-    "num_aviarios": 2,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/ecb8dfa6195749117d597678e0f33bba/timeline/48a33a247002e72c2376d8be09a56e5b/114",
-    "aviarios": [
-      "573",
-      "822"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "JOACIR ANTÔNIO TEIXEIRA",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/7b1525144b9cdd483963af53d9c1266e/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "JOAO ORLANDO",
-    "num_aviarios": 2,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/5f7aa6545ef4b9c0293d544b267eae1c/timeline/dbe359d8e5d69fdeb867fc72702e0169/53",
-    "aviarios": [
-      "1026",
-      "1147"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "MARIA INÊS BERTOLDI FRANZ",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/6a33916d7cdd3e22d19e3fa3ee8ba797/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ALBERTO BENETTI",
-    "num_aviarios": 3,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/bd19cd9d1a2677e9ae05ee2725721457/timeline/129b611b710b80da19c3222f53f3bbeb/39",
-    "aviarios": [
-      "1104",
-      "1105",
-      "1179"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ADEMAR LUIZ PEDRON",
-    "num_aviarios": 2,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/91674f18c7356e79bc7750929203153f/timeline/c3635af81fca08d8edb1703f3dc45bc2/127",
-    "aviarios": [
-      "1190",
-      "381"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "NELSON BENETTI",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/ed8c7fbeb8e823fff7668f9035d7fe18/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ARMANDO LANG",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/cae0d30b2a392c6458301cafa7fe3274/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "SCHARLES VITOR SCHULZ",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/66388722e0001800957bb5dc1eabcaab/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "LISETE CRISTINA BENETTI",
-    "num_aviarios": 2,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/251a1bca84fc6566fc9c9e1431b36a59/timeline/51aa87ad1ca6500b91226443cb41322e/40",
-    "aviarios": [
-      "1102",
-      "1103"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ADEMIR NILO SCHLEMMER",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/a0ec1d9c6e46dbd653c5edaac4282a16/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "HISAAKI HATAMOTO",
-    "num_aviarios": 2,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/a43a3d5a2cd0549733032c7e84933b1b/timeline/e6991e0339a71d41a42a27019c27fbe7/14425",
-    "aviarios": [
-      "826",
-      "827"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ELTON CARLOS BERTELI",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/f83f2b3442d7b811990912c3b2f844da/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "KENJI DELLA PRIA HATAMOTO",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/7488d490a5d755fa030e638a24b5e076/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ANDERSSON BORTOT DE SOUZA",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/0097d981bf28e100486e67a63c010cd3/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "CARLOS EMILIO FREITAG",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/5054b664b40d99afd95c2d3c2afd53bb/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "GERALDA APARECIDA DOS REIS MONTEIRO",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/cddded4b3fb6541613515fd4afb0ef47/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "PAULO HOFFMANN",
-    "num_aviarios": 12,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/c090c4535cd0553664e1719a6e53758a/timeline/4c096355ee0c22beb01042cf6f09f908/167",
-    "aviarios": [
-      "102",
-      "1168",
-      "205",
-      "284",
-      "419",
-      "420",
-      "421",
-      "422",
-      "661",
-      "662",
-      "716",
-      "873"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "SEBASTIÃO DALBOIT",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/e53abbe300ab0deee8958dde6f67b80f/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ALESSANDRO MORI NUNES",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/d8a3328f5f03db3de9a79d85b9afb7ce/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ADAO FERREIRA ASSIS",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/6868b02d68edffb8ef7796ce5cd73c0e/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "DANILO JOHANN",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/4ea3713e6efef0e4dd2a27601833b117/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "CARLOS MATTIUZZI",
-    "num_aviarios": 3,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/8ef155a2f3b8e2631f1c40b67a9383e5/timeline/c430717f2a496e2f9f0e4c64ad944289/17",
-    "aviarios": [
-      "1210",
-      "1211",
-      "1212"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "DONIZETE MARINI",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/9833fdcfc7f1275959d84a4e96332bef/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "MARILENE BURIN GLAESER",
-    "num_aviarios": 3,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/5e91fb3a7a62f62f19d67b229537a978/timeline/d4c98a33628f23e1acfc6700fc2cfbb3/34",
-    "aviarios": [
-      "1151",
-      "1152",
-      "1180"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "LIDEMAR BORDIGNON",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/a4f3aa074778dfb60de1176f0f00b191/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "DOUGLAS JOSE TURATTO",
-    "num_aviarios": 1,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/5a09ed0aff5164a3e9c109d9014db69a/timeline/a195d71397696f16285780e64d7009b8/161",
-    "aviarios": [
-      "304"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ARI PATEL",
-    "num_aviarios": 2,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/b711c52406419a009814f2dedf72d1f7/timeline/f6dc926394ab1badc8e2a52d808aa75a/172",
-    "aviarios": [
-      "1131",
-      "162"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "FERNANDO PIVETTA",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/f09102c5c2cc4383912cab17c3a3f199/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "CEZAR AGNALDO RAMPIM",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/bee951bf29eaae20a81afbbe85458d0f/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "JAIRO BERNO BERNO",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/79800986199fac04c951ba5311926805/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "GISLAINE PONTES FERNANDES",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/c899e447150134250876af8dc52822df/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "CHRISTIAN ESCOBAR GASPARIN",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/737ef359f11707d4decdd3d1a7f2122f/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "JUVENAL PEREIRA MONTEIRO",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/ec8fadcc809707a25b5a778a953ff967/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "PEDRO BORDIGNON",
-    "num_aviarios": 6,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/f3dc6ab9c584f23238e5dcf9901e4377/timeline/187d3d8c3304fdc18b664c77eabd2a16/76",
-    "aviarios": [
-      "1081",
-      "1082",
-      "840",
-      "841",
-      "946",
-      "947"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "CARLOS LUIZ WILLRICH",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/20561e5bbf999a9afd7a5c0a1c0885a5/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "EDITH KURTZ",
-    "num_aviarios": 1,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/b29a0657d59f2d0f9647bfe13780f58b/timeline/da71a4541b5aee7bdbca50939f36c6b8/174",
-    "aviarios": [
-      "183"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "EVERTON HIRAOKA",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/a3f149e40d2d2affb544369d272883ae/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "DANIELI CRISTIANE MARTINS HAFEMANN",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/b1405ca454d688bf2b2d7695dc66dc35/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ARI SPONCHIADO",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/5d9f4b43ee86bd65e171cd959affecd2/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "AIRTON WEINE",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/8a0ffd9441297e45c07e7a29def0de06/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ANAÍ BACCI NAVES",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/057caae58a76e92dc73960fa197a26fa/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "CLÉLIO ARGENTON",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/0d878783ee5e9ee187c1eba401c12c8e/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "DIRCEU ANDRÉ DEIMLING",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/79b160006297cc1273ff97add240f0c4/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "GERSON APARECIDO PIRES DE OLIVEIRA",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/01c3d41a0d84f15b301ef07ac3a8bfb4/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "JOÃO VALERO EGIDO",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/a6f752e518f200164dfcc3482591d2c8/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "JOSÉ HABOWSKI",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/c22e5cff4088b0b65b3f7662f26b0751/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "LUCAS RHUAN TAIT",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/4caa08ee807a96c0279f56d305c493e5/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "MARCELO GAIOLA GALDIOLI",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/dd2b264066b587ceebdc7b55fece0b37/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "MARLENE MANCHINE SOARES",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/081fc5e680c6ec7b911842ede0e5763d/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ODAIR JOSE FAVARO",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/c8815ea19a0d1ac7d7519b756e6369ed/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ONOFRE APARECIDO FIGUEIRA DIAS",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/1563a2d77aabf9a3ea9d2bb8bc54392e/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "OSVALDO LOURENÇO BORIAN",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/367492d03b10cc54fdf7db4627585a17/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "LAUDELINO ANTONIO SOARES",
-    "num_aviarios": 4,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/8f8f1801b8d8c783c757dbee623ed301/timeline/dc319285e6c46ce69910b5e23d004861/30",
-    "aviarios": [
-      "1175",
-      "1176",
-      "1304",
-      "1371"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "MARCELO REINKE BLODORN",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/a55dee9beeab37de50d24549047c3e47/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ADIR MARLOW",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/e6b324cbcf9ae428eb69bcb52400ebc3/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "LUCIANO DA SILVA ORLANDO",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/2be0399bac2f6a88a81e3614359789bb/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ANDREIA JOSÉ ORLANDO DA SILVA",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/82d54af681712c5c5cb06699dba3097e/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "JULIANA AFONSO BRANCO DOS SANTOS",
-    "num_aviarios": 4,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/95dae2992d47b6dab1c22d15dcc77b02/timeline/77e49d4be50c9b2bd4be6e5b10247386/4",
-    "aviarios": [
-      "1333",
-      "1334",
-      "1335",
-      "1336"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ZILMA LENZ MUCH",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/7e230e0123c24c50dfbddb216e72517b/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "VERA LUIZA MOTTIN BENSTTI",
-    "num_aviarios": 2,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/a70412a125942e037acd3a91afada042/timeline/5b73663fae9bdb12d482ab9119aef59d/161",
-    "aviarios": [
-      "294",
-      "295"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "VERNO KRIEGER",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/feabbffec2c86949d2c55553baa92d57/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "WALTRAUD FAUTH RICHTER",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/51c4d44a590fbd12e66089e68cdecd4d/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "SÉRGIO AMARAL",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/1945768a2c96d40142008f4cb256a97b/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "VALDENIR LEAL DON SANTO",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/6bde41f7e694c1c165634b21ae041892/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "MARIA VIGNE CENTENARO",
-    "num_aviarios": 1,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/0cb02b3ae323633ffceb09755791c348/timeline/2e7aff3ca11b337b3c06db88848d72c0/174",
-    "aviarios": [
-      "156"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "LEANI ZERETZKI",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/ec7c97747b7d20783023582dc836a94d/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "MARIO MOACYR LOURENÇÃO",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/3eaaa21b1d8fc24feae81270f6785c85/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "RODRIGO MARRETTO AMARAL",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/cff864d065caf7634d169fa7a9220dca/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "MARTIM ROGÉRIO REINKE",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/cde4edc58ceb6108aed3a7c3d39e2827/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "PAULO RENATO LOCATELLI",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/2cd44c5fdacafef644006b5e7fc8a588/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "CARLOS JOSE GRIS",
-    "num_aviarios": 1,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/47aa53cd5e73e9190b4e404429a59f9a/timeline/2b344ab25d58009fb780f7ac09b2228e/162",
-    "aviarios": [
-      "237"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "IRENEO FELIPPE CHIELLA",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/6c291d4777b7e7ca8c9aa34c74b20f35/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "JUAREZ PASTORE",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/35c69b77efaf2a8a4694a104ce3fd181/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "FLAVIO CLAYTON SALVADOR",
-    "num_aviarios": 2,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/0b47fe6e68af12d55715e344aa6d3a47/timeline/06a25b95b2a7d080c569d6c6ae8bc2d2/1",
-    "aviarios": [
-      "1379",
-      "1380"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "FERNANDA BASSO BERTOLDI",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/900872a3af3a3909a1fb024e01a1b3f3/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "EDIMAR SANTOS",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/1862e2872611451178bfc571fb8e3a19/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "HÉLIO ZAGO",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/0e66818a30700c926ae39510e7939e4f/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "NIVALDO EDER DE SOUZA",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/448563663d87b5b9fa4a26722d4a2119/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "OLAVIO LOFH",
-    "num_aviarios": 1,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/5738d31ead2fbfd3f645039d8a2e6d0b/timeline/2bc0bed9e5034f21f408fc1dc6bf171a/154",
-    "aviarios": [
-      "387"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "JOSÉ HENRIQUE DE OLIVEIRA NETO",
-    "num_aviarios": 5,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/5bd63fa0495e10b7423b12088b00a6c7/timeline/34d7b2aee88c8e8350fa43bcef26d8d5/119",
-    "aviarios": [
-      "1216",
-      "1217",
-      "514",
-      "515",
-      "944"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ACELINO LORENZETTI",
-    "num_aviarios": 3,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/51ad322eff4003399b01bbe9115f5950/timeline/f08743ee894af5c20d1a856a9c1faa66/176",
-    "aviarios": [
-      "151",
-      "152",
-      "869"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "AMARILDO DONIZETTI RIBEIRO",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/80a751e0f3f4c5bbf917397453ee0939/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "DENILSO LUPATINI",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/619bddd45060e4e3a143a6dc5998164d/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "FERNANDO VOLPATO MARQUES",
-    "num_aviarios": 2,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/c6e58c0956edd45a42c6304966782015/timeline/82596d6fcaafcb5d2285867f3026b74d/64",
-    "aviarios": [
-      "966",
-      "967"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "IVANILDA ALVES BARBOSA DAL BOIT",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/ab0c59c4f956b4cc33d93ee954847226/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "JAIR BARBACOVI",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/ae3b69716400548ee9040522ddf4097b/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "JAIR VANDERLEI SEIBOTH",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/1316ca67dba78e5957850827eaf91a34/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "JOSE ANGELO GUSSI",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/b0861c1a16e0d853bcc33946f1f562ff/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "LUCIANO MASSAYOSHI WADA",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/983e10c0fe92074692cdccccfb09ba3c/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "MARCOS ROBERTO DE AZEVEDO",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/3f80d4f5270961151918ff3720d50504/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "MARIA ANTÔNIA DRUZIANI SEBRIAN",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/183eec285617ffa5f2384851e2d81301/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "NELIO JOSÉ KUNH",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/01d5b89ebbb9a2a2309cdeb5df3dc7a8/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "SILVIA SANCHES",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/fc80a05c0db537611c05db0f36f26c19/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "WANDERLEY ANDREACCI CERICATTO",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/122db04bbfba1bc07415af54496c2688/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "RAFAEL ZAMIAN",
-    "num_aviarios": 2,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/f0004ee5472639c1ae6513f4acbee70e/timeline/44a5ef4e7d442a60a272275474e8bffd/126",
-    "aviarios": [
-      "473",
-      "943"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "AIRTON JOSÉ MOREIRA",
-    "num_aviarios": 2,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/16268ec0092faa7f9cbbbfe96f25d607/timeline/2d85294ecb56e33356ac5c09251bc192/160",
-    "aviarios": [
-      "1000",
-      "340"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ROSELIANE CALGARO HOFFMANN",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/943b1a56bcda59a592b7858fba42b647/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "JULIANO FALCONI MIOTTO",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/2d50c337d7f1f9746652ff4eea0b7522/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "LUIS CARLOS MIOTTO",
-    "num_aviarios": 6,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/cc4ae2596b6079d24fc4f03130c51b02/timeline/0975ce5bc6cb9237270781f26818494a/124",
-    "aviarios": [
-      "170",
-      "171",
-      "337",
-      "882",
-      "883",
-      "884"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "EDIVAR ANTONIO MARQUEZIN",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/879cfc92de9da9d7b7fa468e278ea9e2/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "IVAIR DREON",
-    "num_aviarios": 3,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/3887f9c8dc1a3733e311791601adad4f/timeline/22e176b33a047ff5f06277b8c261ba17/176",
-    "aviarios": [
-      "140",
-      "303",
-      "783"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ORLANDO LOPES DE GOUVEIA",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/70b094f825e8137eb67b74fd4680624a/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "JOSE AUGUSTO PERACOLI COZER",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/2f1d0617c5a7243ae53ec691ec4e4e9b/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "FATIMA APARECIDA CRISPIM COSTA VILAR",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/162859dedfdbc330bad34733ee30b547/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "JOAO FRANCISCO CRISPIM COSTA",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/5352df3633a8dd650f2af0ce553109e2/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "CELSO MAERCIO CORDEIRO VILAR",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/0557a66efdff579ed5ca3b0f36ac0d31/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "IGOR CRISPIM COSTA",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/c4c4bfce31fb76cb31d32c3c7d32cbb7/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "CESAR CRISPIM VILAR",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/807011708f92af0866e490d778122265/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "EDUARDO CRISPIM COSTA",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/4a543758e3905528ae82a62f66bea033/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "JOSE CARLOS CRISPIM COSTA",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/010ebbd55bffe641c8598b75e382572a/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "CLEIFSON FERRARI GROSS",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/428127e7c4f63b89fb5ce8803518b494/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "CÁSSIA CRISTINA ROZANTE JORDEN",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/58120369cd32abb13f6a8eec15894c1b/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "MARCIO ROBERTO MICHELON",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/31228343c6a9f42c43038ed1521b200b/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "MARLI RICHTER KAPPES",
-    "num_aviarios": 2,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/d8e8923e3cf45ca69eace35908c019d1/timeline/aa1da089d43329c10a6cda1eb00703b7/172",
-    "aviarios": [
-      "150",
-      "306"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "LEVI HARTWIG",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/4067d6271334c5e8db06a9ada1839554/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "NELSON TIETZ",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/0aa04a9ef6ef77dd446baaa02b3dcded/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "LUCIMAR BAIOCCO",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/22e81eb806af6f512847601ce3862bcb/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "WILFRID FRITZKE",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/4c97b8169787b425f3a556a994036bf0/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ADRIANO TOSHIO NAKAZAWA",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/e59cc393723602e6f5a7c667d1f3e930/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ADEILDO MIELNIK FERREIRA",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/5f227a45bdf0d8a12fdd9db8fe2ab71c/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ADILSON APARECIDO DA MOTA",
-    "num_aviarios": 2,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/3f4ed02b174bcdd76493f95656655afe/timeline/e127a630191350e8eac85d455fa19bb0/107",
-    "aviarios": [
-      "1247",
-      "650"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ANDERSON NEI MORELATTO",
-    "num_aviarios": 4,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/b2b0f01ed3738849c5389949145dcfe0/timeline/5c813b11a6cddb0c654497a2acf182a2/102",
-    "aviarios": [
-      "1117",
-      "1118",
-      "665",
-      "666"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "VICTOR BARBARA",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/63c7079009a4376d1980bd2630ed8f73/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "MARCEL GILVAN LEONARDI",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/0ee4d20bb48ad254bb530629d4165741/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "JOSE MARCOS TORQUETE",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/8676e5b06b982f8e0dfc26316880b6aa/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "CELSO UTECH",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/10446d3986b6dd6f7f5d5c011613939f/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "APARECIDO ROBERTO DIOTTO",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/7fdee87b171314755ad70d6f49665640/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "SUELI MARIA PEREIRA BENINCÁ",
-    "num_aviarios": 6,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/71db4549f1734e92b39fea3608edf618/timeline/47f4caf38a688beb6bc7ef834df93d40/158",
-    "aviarios": [
-      "351",
-      "352",
-      "353",
-      "354",
-      "936",
-      "937"
-    ],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "ADEMIR ZAGO",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/4f0d4c35fb59784ba7649958a756e66b/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
-    "nome": "GABRIEL BORTOLOZZO BATTISTI",
-    "num_aviarios": 0,
-    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/d4819e9b365e95419f42d4a85069a9a6/timeline",
-    "aviarios": [],
-    "arquivo_origem": "AgroCenter - Perfil BRUNO CONTER.html"
-  },
-  {
     "nome": "JACINTO JOSE ALFLEN",
-    "num_aviarios": 0,
+    "num_aviarios": 8,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/abd9698f7f1bb50ae3729c0f8c0bfbc1/timeline",
-    "aviarios": [],
+    "aviarios": [
+      "1027",
+      "1028",
+      "1029",
+      "1030",
+      "1077",
+      "1078",
+      "1079",
+      "1080"
+    ],
     "arquivo_origem": "AgroCenter - Perfil EVANDRO.html"
   },
   {
     "nome": "ALISSON SCHACH",
-    "num_aviarios": 0,
+    "num_aviarios": 2,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/617063eca5f556d3e702011b6785e90e/timeline",
-    "aviarios": [],
+    "aviarios": [
+      "1250",
+      "1251"
+    ],
     "arquivo_origem": "AgroCenter - Perfil ALISSON.html"
   },
   {
     "nome": "MARCELO FUMAGALLI",
-    "num_aviarios": 0,
+    "num_aviarios": 5,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/7bac4d6e42064faf10eb7f327dcb8b0a/timeline",
-    "aviarios": [],
+    "aviarios": [
+      "1059",
+      "1293",
+      "819",
+      "820",
+      "877"
+    ],
     "arquivo_origem": "AgroCenter - Perfil ALISSON.html"
   },
   {
     "nome": "ADEMIR FERREIRA DE PADUA",
-    "num_aviarios": 0,
+    "num_aviarios": 3,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/c018d5692c7f1ce871e7c9e19448cc42/timeline",
-    "aviarios": [],
+    "aviarios": [
+      "1091",
+      "1092",
+      "1093"
+    ],
     "arquivo_origem": "AgroCenter - Perfil ALISSON.html"
   },
   {
     "nome": "ADEMIR SCHREIBER",
-    "num_aviarios": 0,
+    "num_aviarios": 2,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/b71589fda603337206afc0e9f6fe3a5d/timeline",
-    "aviarios": [],
+    "aviarios": [
+      "165",
+      "565"
+    ],
     "arquivo_origem": "AgroCenter - Perfil LETICIA.html"
   },
   {
     "nome": "DALTON AURI LUDEWIG",
-    "num_aviarios": 1,
+    "num_aviarios": 8,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/ef049e2e3fb032785669d6d1a2cea0cb/timeline/30a0770915cf17d4dea04b96d3e6727a/49",
     "aviarios": [
-      "1037"
+      "1036",
+      "1037",
+      "207",
+      "211",
+      "484",
+      "614",
+      "615",
+      "679"
     ],
     "arquivo_origem": "AgroCenter - Perfil LETICIA.html"
   },
   {
     "nome": "DEBORA ALINE SCHLEMMER",
-    "num_aviarios": 1,
+    "num_aviarios": 3,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/80f77fd2ebb4122f754302733da84016/timeline/6ee352616b170a8f153fe03784f03535/32",
     "aviarios": [
+      "1121",
+      "1122",
       "1123"
     ],
     "arquivo_origem": "AgroCenter - Perfil LETICIA.html"
   },
   {
     "nome": "JOÃO PAULO DOS SANTOS BAIOCCO",
-    "num_aviarios": 0,
+    "num_aviarios": 3,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/9657de56994998a6e397e8de37f14f73/timeline",
-    "aviarios": [],
+    "aviarios": [
+      "1220",
+      "1221",
+      "1222"
+    ],
     "arquivo_origem": "AgroCenter - Perfil CARLOS.html"
   },
   {
@@ -1598,23 +345,39 @@
   },
   {
     "nome": "CASTILLO HENDGES",
-    "num_aviarios": 0,
+    "num_aviarios": 6,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/59ecd88be190f1b75177ac3fd07650ef/timeline",
-    "aviarios": [],
+    "aviarios": [
+      "129",
+      "130",
+      "630",
+      "750",
+      "751",
+      "752"
+    ],
     "arquivo_origem": "AgroCenter - Perfil JESSIANE.html"
   },
   {
     "nome": "JOSE CARLOS PIRES DOS SANTOS",
-    "num_aviarios": 0,
+    "num_aviarios": 4,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/6706476106e893998e58c3256fc91ae5/timeline",
-    "aviarios": [],
+    "aviarios": [
+      "1084",
+      "113",
+      "286",
+      "318"
+    ],
     "arquivo_origem": "AgroCenter - Perfil JESSIANE.html"
   },
   {
     "nome": "DORVALINO PASTORE",
-    "num_aviarios": 0,
+    "num_aviarios": 3,
     "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/1fb0c9959a5accb28e775326e84f5a76/timeline",
-    "aviarios": [],
+    "aviarios": [
+      "155",
+      "438",
+      "889"
+    ],
     "arquivo_origem": "AgroCenter - Perfil ALTAIR.html"
   },
   {
@@ -1628,5 +391,1771 @@
       "607"
     ],
     "arquivo_origem": "AgroCenter - Perfil ALTAIR.html"
+  },
+  {
+    "nome": "ROBERTO  MINORU YASUE",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/2e5e6f4a8db825277a6ed52683e3a873/timeline/7ae7576df0f8bf7db9ada48c56a8331d/54",
+    "aviarios": [
+      "1024",
+      "253",
+      "676"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "RENAN GENERO",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/a3ece694e37ad2b58c445cb1f6480ac0/timeline/e58e7100aa659f5479ff5f10052f4881/163",
+    "aviarios": [
+      "215"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "AIRTON LUIZ BONAFIN",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/ae1aa9685598c66805f2a28aa06aded6/timeline/767fc1c615c0ab5a782f1d20e37dc515/58",
+    "aviarios": [
+      "430",
+      "945"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "MARCELO DOUGLAS BENDER",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/ff7c6a4498cae60123a6d5b0783cd7fa/timeline",
+    "aviarios": [
+      "164"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "CLODOALDO SILVA DOS SANTOS",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/a51f04cdfa0ee65275b5bbd6dc475553/timeline/6e57203a105cb73c8700330c000ad211/102",
+    "aviarios": [
+      "643"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "SÉRGIO LUIZ BERTOLDI",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/7cd9d15ca634182de884a40c24341c8d/timeline/3810bfe076936d7adc7fe166fa24839f/164",
+    "aviarios": [
+      "112",
+      "275",
+      "322",
+      "677"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "PAULO FRANCISCO CORBARI",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/27b890d22e674e4942b18fe40c49bf0d/timeline",
+    "aviarios": [
+      "1310",
+      "1311",
+      "1312",
+      "1313"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "PEDRO JOSE HILZENDEGER",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/854798a406d829cb4f85bd97f10b20d1/timeline/904d5fa05c03278a2b5028708c717fec/122",
+    "aviarios": [
+      "1083",
+      "450",
+      "490"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "WILSON DOMINGUES DO AMARAL",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/cf50da1419b6b5cf5bbf1dd3bd292ea6/timeline",
+    "aviarios": [
+      "1266"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "LEANDRO FEHMBERGER",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/d9b2ca0d763465f9826c0cfc3433300f/timeline/0a13048dbb08d9ee73669009537b1ffb/176",
+    "aviarios": [
+      "139",
+      "786"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "GILBERTO MASSAO BALDO",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/1621fe55b167bd7e3c6140014ec66ea1/timeline/0a8b9f745bc7b72dab9f6aade8928849/100",
+    "aviarios": [
+      "705",
+      "809"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "FRANCISCO ANTÔNIO CRIPA",
+    "num_aviarios": 5,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/e629465ca4a6ebb7adbc5944f4015261/timeline/ec6cb4cc98846554ec7a09f8bdc88fe5/74",
+    "aviarios": [
+      "1285",
+      "1286",
+      "1287",
+      "892",
+      "893"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "CLACI KRAMPE",
+    "num_aviarios": 10,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/7b7763bbfa87a6b959bc95bd604fdaae/timeline/d92034f5edf2e0a4b1e2d3ffce0ff1f5/161",
+    "aviarios": [
+      "1044",
+      "1045",
+      "365",
+      "366",
+      "376",
+      "512",
+      "618",
+      "793",
+      "794",
+      "980"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "RONALDO JOÃO VENDRAME",
+    "num_aviarios": 6,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/20999bf42f60a643fc0852414bd2e8bd/timeline/20a166cf9bb8dbcc9c8a167f654385e2/175",
+    "aviarios": [
+      "172",
+      "240",
+      "530",
+      "720",
+      "926",
+      "927"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ALBERTINO AFONSO BRANCO",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/d0aed1e3658777e8be50f3c3e997e927/timeline/ff339f6486a4f41fc702cd48eceb0d99/110",
+    "aviarios": [
+      "503",
+      "504",
+      "868"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "JOSÉ HENRIQUE BORSATTO",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/9ecb8f45b658b203b59acb9dfcba6056/timeline/c00c9e6cf9b9bfce177445d83fa52676/81",
+    "aviarios": [
+      "388",
+      "817"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "SANDRO TAGLIARI",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/4bb9bc04d3221628d9c236a417a22dd8/timeline/89d47f2d572e950829de8bd3aaee22e0/29",
+    "aviarios": [
+      "1195",
+      "1196"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "DORVAL CONCI",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/5f66f02adbce411d3d7def8677abb35e/timeline/33a4017b98f71c9256dca3ba567024b1/122",
+    "aviarios": [
+      "423",
+      "424",
+      "474"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "JAIR SOARES DE OLIVEIRA",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/4202eac76f85f335db425a3c0ea8a368/timeline",
+    "aviarios": [
+      "299"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "EVANILDO GIESELER",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/bdb43d218cda35e2a1718ca8bb21f45b/timeline/aa2f872fc53079bb7192e87034c79d78/85",
+    "aviarios": [
+      "785"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "GERVASIO RIBEIRO MORAES",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/c01f2181531f45898475aa56c6a1f7b7/timeline/93b71f08cf603830daa1853557cf51ca/28",
+    "aviarios": [
+      "1133",
+      "1134",
+      "688"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "DOMINGOS BONANI",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/d9771f3451ae7c96ec026f3bc4d59dc7/timeline",
+    "aviarios": [
+      "1109",
+      "1110"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "MARCELO MORILHA TELES",
+    "num_aviarios": 0,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/9bf4e560b1d65368a51a2d8642d6e8b0/timeline",
+    "aviarios": [],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "LEONICE FRIEDRICH",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/e9e821221f75e3551214cfafebcd7474/timeline/027d7fbbd12e9771adef2c8fca87dcdd/29",
+    "aviarios": [
+      "1186",
+      "1187",
+      "1188",
+      "1189"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "JOAO VALERO EGIDO",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/763a4b31b45f747b056c8360a30bc466/timeline/63544da004e51a8f2cdc4173ffa65c69/18",
+    "aviarios": [
+      "1295",
+      "653",
+      "863"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "SANDRO ANDRÉ RICHTER",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/d3ac59562a37f4d7499274160be908cc/timeline",
+    "aviarios": [
+      "142"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ANDERSON CRISTIANO HERMES",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/d1fa675509ed62d0f8a66f0bb609dc09/timeline",
+    "aviarios": [
+      "1097",
+      "757"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "SILVANE CALGARO SANTOS",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/e23c7e495a138a58e07ede86a0c2bfa8/timeline",
+    "aviarios": [
+      "1227",
+      "1228",
+      "1229",
+      "1230"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "DIRCEU DOS SANTOS",
+    "num_aviarios": 5,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/46df54139982de35f9ee0a6aa95c720f/timeline",
+    "aviarios": [
+      "1127",
+      "1128",
+      "591",
+      "721",
+      "911"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "VOLNEI BENETTI",
+    "num_aviarios": 5,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/7ac8ebdb084e72a47b704c27abf370ad/timeline/3db94c7af8915ce00b88d35183e09ccb/175",
+    "aviarios": [
+      "195",
+      "646",
+      "647",
+      "648",
+      "719"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ERNI ARNDT",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/ecb8dfa6195749117d597678e0f33bba/timeline/48a33a247002e72c2376d8be09a56e5b/114",
+    "aviarios": [
+      "573",
+      "795",
+      "822"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "JOACIR ANTÔNIO TEIXEIRA",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/7b1525144b9cdd483963af53d9c1266e/timeline",
+    "aviarios": [
+      "1111",
+      "1112",
+      "592",
+      "791"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "JOAO ORLANDO",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/5f7aa6545ef4b9c0293d544b267eae1c/timeline/dbe359d8e5d69fdeb867fc72702e0169/53",
+    "aviarios": [
+      "1026",
+      "1147"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "MARIA INÊS BERTOLDI FRANZ",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/6a33916d7cdd3e22d19e3fa3ee8ba797/timeline",
+    "aviarios": [
+      "321",
+      "432",
+      "687"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ALBERTO BENETTI",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/bd19cd9d1a2677e9ae05ee2725721457/timeline/129b611b710b80da19c3222f53f3bbeb/39",
+    "aviarios": [
+      "1104",
+      "1105",
+      "1179",
+      "531"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ADEMAR LUIZ PEDRON",
+    "num_aviarios": 5,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/91674f18c7356e79bc7750929203153f/timeline/c3635af81fca08d8edb1703f3dc45bc2/127",
+    "aviarios": [
+      "1190",
+      "381",
+      "459",
+      "814",
+      "906"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "NELSON BENETTI",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/ed8c7fbeb8e823fff7668f9035d7fe18/timeline",
+    "aviarios": [
+      "185",
+      "230"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ARMANDO LANG",
+    "num_aviarios": 6,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/cae0d30b2a392c6458301cafa7fe3274/timeline",
+    "aviarios": [
+      "1160",
+      "1161",
+      "550",
+      "551",
+      "880",
+      "881"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "SCHARLES VITOR SCHULZ",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/66388722e0001800957bb5dc1eabcaab/timeline",
+    "aviarios": [
+      "1090",
+      "957",
+      "958"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "LISETE CRISTINA BENETTI",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/251a1bca84fc6566fc9c9e1431b36a59/timeline/51aa87ad1ca6500b91226443cb41322e/40",
+    "aviarios": [
+      "1102",
+      "1103"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ADEMIR NILO SCHLEMMER",
+    "num_aviarios": 6,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/a0ec1d9c6e46dbd653c5edaac4282a16/timeline",
+    "aviarios": [
+      "440",
+      "487",
+      "663",
+      "743",
+      "811",
+      "963"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "HISAAKI HATAMOTO",
+    "num_aviarios": 5,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/a43a3d5a2cd0549733032c7e84933b1b/timeline/e6991e0339a71d41a42a27019c27fbe7/14425",
+    "aviarios": [
+      "763",
+      "764",
+      "825",
+      "826",
+      "827"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ELTON CARLOS BERTELI",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/f83f2b3442d7b811990912c3b2f844da/timeline",
+    "aviarios": [
+      "1213",
+      "1214",
+      "836",
+      "837"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "KENJI DELLA PRIA HATAMOTO",
+    "num_aviarios": 6,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/7488d490a5d755fa030e638a24b5e076/timeline",
+    "aviarios": [
+      "1085",
+      "1342",
+      "1343",
+      "997",
+      "998",
+      "999"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ANDERSSON BORTOT DE SOUZA",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/0097d981bf28e100486e67a63c010cd3/timeline",
+    "aviarios": [
+      "1006",
+      "1226",
+      "617",
+      "723"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "CARLOS EMILIO FREITAG",
+    "num_aviarios": 8,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/5054b664b40d99afd95c2d3c2afd53bb/timeline",
+    "aviarios": [
+      "1003",
+      "1004",
+      "1308",
+      "1309",
+      "706",
+      "707",
+      "771",
+      "839"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "GERALDA APARECIDA DOS REIS MONTEIRO",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/cddded4b3fb6541613515fd4afb0ef47/timeline",
+    "aviarios": [
+      "1033",
+      "700"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "PAULO HOFFMANN",
+    "num_aviarios": 20,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/c090c4535cd0553664e1719a6e53758a/timeline/4c096355ee0c22beb01042cf6f09f908/167",
+    "aviarios": [
+      "102",
+      "1027",
+      "1028",
+      "1029",
+      "1030",
+      "1077",
+      "1078",
+      "1079",
+      "1080",
+      "1168",
+      "205",
+      "284",
+      "419",
+      "420",
+      "421",
+      "422",
+      "661",
+      "662",
+      "716",
+      "873"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "SEBASTIÃO DALBOIT",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/e53abbe300ab0deee8958dde6f67b80f/timeline",
+    "aviarios": [
+      "135",
+      "367",
+      "369"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ALESSANDRO MORI NUNES",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/d8a3328f5f03db3de9a79d85b9afb7ce/timeline",
+    "aviarios": [
+      "901",
+      "902",
+      "959",
+      "960"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ADAO FERREIRA ASSIS",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/6868b02d68edffb8ef7796ce5cd73c0e/timeline",
+    "aviarios": [
+      "864",
+      "865",
+      "905"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "DANILO JOHANN",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/4ea3713e6efef0e4dd2a27601833b117/timeline",
+    "aviarios": [
+      "395",
+      "396"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "CARLOS MATTIUZZI",
+    "num_aviarios": 6,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/8ef155a2f3b8e2631f1c40b67a9383e5/timeline/c430717f2a496e2f9f0e4c64ad944289/17",
+    "aviarios": [
+      "1210",
+      "1211",
+      "1212",
+      "940",
+      "941",
+      "942"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "DONIZETE MARINI",
+    "num_aviarios": 7,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/9833fdcfc7f1275959d84a4e96332bef/timeline",
+    "aviarios": [
+      "1153",
+      "1154",
+      "1193",
+      "1194",
+      "1298",
+      "1299",
+      "1317"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "MARILENE BURIN GLAESER",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/5e91fb3a7a62f62f19d67b229537a978/timeline/d4c98a33628f23e1acfc6700fc2cfbb3/34",
+    "aviarios": [
+      "1151",
+      "1152",
+      "1180"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "LIDEMAR BORDIGNON",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/a4f3aa074778dfb60de1176f0f00b191/timeline",
+    "aviarios": [
+      "1296",
+      "1297"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "DOUGLAS JOSE TURATTO",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/5a09ed0aff5164a3e9c109d9014db69a/timeline/a195d71397696f16285780e64d7009b8/161",
+    "aviarios": [
+      "304",
+      "543"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ARI PATEL",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/b711c52406419a009814f2dedf72d1f7/timeline/f6dc926394ab1badc8e2a52d808aa75a/172",
+    "aviarios": [
+      "1131",
+      "162",
+      "427"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "FERNANDO PIVETTA",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/f09102c5c2cc4383912cab17c3a3f199/timeline",
+    "aviarios": [
+      "1089",
+      "938",
+      "939"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "CEZAR AGNALDO RAMPIM",
+    "num_aviarios": 5,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/bee951bf29eaae20a81afbbe85458d0f/timeline",
+    "aviarios": [
+      "1279",
+      "1280",
+      "921",
+      "922",
+      "923"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "JAIRO BERNO BERNO",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/79800986199fac04c951ba5311926805/timeline",
+    "aviarios": [
+      "802",
+      "803"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "GISLAINE PONTES FERNANDES",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/c899e447150134250876af8dc52822df/timeline",
+    "aviarios": [
+      "658",
+      "765"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "CHRISTIAN ESCOBAR GASPARIN",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/737ef359f11707d4decdd3d1a7f2122f/timeline",
+    "aviarios": [
+      "339",
+      "439"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "JUVENAL PEREIRA MONTEIRO",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/ec8fadcc809707a25b5a778a953ff967/timeline",
+    "aviarios": [
+      "1032",
+      "642"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "PEDRO BORDIGNON",
+    "num_aviarios": 6,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/f3dc6ab9c584f23238e5dcf9901e4377/timeline/187d3d8c3304fdc18b664c77eabd2a16/76",
+    "aviarios": [
+      "1081",
+      "1082",
+      "840",
+      "841",
+      "946",
+      "947"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "CARLOS LUIZ WILLRICH",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/20561e5bbf999a9afd7a5c0a1c0885a5/timeline",
+    "aviarios": [
+      "532"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "EDITH KURTZ",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/b29a0657d59f2d0f9647bfe13780f58b/timeline/da71a4541b5aee7bdbca50939f36c6b8/174",
+    "aviarios": [
+      "183"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "EVERTON HIRAOKA",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/a3f149e40d2d2affb544369d272883ae/timeline",
+    "aviarios": [
+      "686"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "DANIELI CRISTIANE MARTINS HAFEMANN",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/b1405ca454d688bf2b2d7695dc66dc35/timeline",
+    "aviarios": [
+      "651",
+      "652"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ARI SPONCHIADO",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/5d9f4b43ee86bd65e171cd959affecd2/timeline",
+    "aviarios": [
+      "1125",
+      "274",
+      "680",
+      "891"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "AIRTON WEINE",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/8a0ffd9441297e45c07e7a29def0de06/timeline",
+    "aviarios": [
+      "480",
+      "861"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ANAÍ BACCI NAVES",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/057caae58a76e92dc73960fa197a26fa/timeline",
+    "aviarios": [
+      "1140",
+      "849"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "CLÉLIO ARGENTON",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/0d878783ee5e9ee187c1eba401c12c8e/timeline",
+    "aviarios": [
+      "107",
+      "444"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "DIRCEU ANDRÉ DEIMLING",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/79b160006297cc1273ff97add240f0c4/timeline",
+    "aviarios": [
+      "297",
+      "298",
+      "467"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "GERSON APARECIDO PIRES DE OLIVEIRA",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/01c3d41a0d84f15b301ef07ac3a8bfb4/timeline",
+    "aviarios": [
+      "1144",
+      "981",
+      "982"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "JOÃO VALERO EGIDO",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/a6f752e518f200164dfcc3482591d2c8/timeline",
+    "aviarios": [
+      "1295",
+      "653",
+      "863"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "JOSÉ HABOWSKI",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/c22e5cff4088b0b65b3f7662f26b0751/timeline",
+    "aviarios": [
+      "282"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "LUCAS RHUAN TAIT",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/4caa08ee807a96c0279f56d305c493e5/timeline",
+    "aviarios": [
+      "348"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "MARCELO GAIOLA GALDIOLI",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/dd2b264066b587ceebdc7b55fece0b37/timeline",
+    "aviarios": [
+      "1034",
+      "201",
+      "599"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "MARLENE MANCHINE SOARES",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/081fc5e680c6ec7b911842ede0e5763d/timeline",
+    "aviarios": [
+      "1145",
+      "166",
+      "177"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ODAIR JOSE FAVARO",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/c8815ea19a0d1ac7d7519b756e6369ed/timeline",
+    "aviarios": [
+      "332",
+      "333"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ONOFRE APARECIDO FIGUEIRA DIAS",
+    "num_aviarios": 5,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/1563a2d77aabf9a3ea9d2bb8bc54392e/timeline",
+    "aviarios": [
+      "1023",
+      "1096",
+      "1198",
+      "669",
+      "670"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "OSVALDO LOURENÇO BORIAN",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/367492d03b10cc54fdf7db4627585a17/timeline",
+    "aviarios": [
+      "695",
+      "696",
+      "697",
+      "698"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "LAUDELINO ANTONIO SOARES",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/8f8f1801b8d8c783c757dbee623ed301/timeline/dc319285e6c46ce69910b5e23d004861/30",
+    "aviarios": [
+      "1175",
+      "1176",
+      "1304",
+      "1371"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "MARCELO REINKE BLODORN",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/a55dee9beeab37de50d24549047c3e47/timeline",
+    "aviarios": [
+      "535"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ADIR MARLOW",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/e6b324cbcf9ae428eb69bcb52400ebc3/timeline",
+    "aviarios": [
+      "103"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "LUCIANO DA SILVA ORLANDO",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/2be0399bac2f6a88a81e3614359789bb/timeline",
+    "aviarios": [
+      "1330",
+      "1331",
+      "1332"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ANDREIA JOSÉ ORLANDO DA SILVA",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/82d54af681712c5c5cb06699dba3097e/timeline",
+    "aviarios": [
+      "1025",
+      "1267"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "JULIANA AFONSO BRANCO DOS SANTOS",
+    "num_aviarios": 7,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/95dae2992d47b6dab1c22d15dcc77b02/timeline/77e49d4be50c9b2bd4be6e5b10247386/4",
+    "aviarios": [
+      "1061",
+      "1333",
+      "1334",
+      "1335",
+      "1336",
+      "729",
+      "904"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ZILMA LENZ MUCH",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/7e230e0123c24c50dfbddb216e72517b/timeline",
+    "aviarios": [
+      "418",
+      "624"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "VERA LUIZA MOTTIN BENSTTI",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/a70412a125942e037acd3a91afada042/timeline/5b73663fae9bdb12d482ab9119aef59d/161",
+    "aviarios": [
+      "294",
+      "295"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "VERNO KRIEGER",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/feabbffec2c86949d2c55553baa92d57/timeline",
+    "aviarios": [
+      "258"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "WALTRAUD FAUTH RICHTER",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/51c4d44a590fbd12e66089e68cdecd4d/timeline",
+    "aviarios": [
+      "202",
+      "203"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "SÉRGIO AMARAL",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/1945768a2c96d40142008f4cb256a97b/timeline",
+    "aviarios": [
+      "1264"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "VALDENIR LEAL DON SANTO",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/6bde41f7e694c1c165634b21ae041892/timeline",
+    "aviarios": [
+      "557",
+      "558",
+      "559"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "MARIA VIGNE CENTENARO",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/0cb02b3ae323633ffceb09755791c348/timeline/2e7aff3ca11b337b3c06db88848d72c0/174",
+    "aviarios": [
+      "156"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "LEANI ZERETZKI",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/ec7c97747b7d20783023582dc836a94d/timeline",
+    "aviarios": [
+      "236"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "MARIO MOACYR LOURENÇÃO",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/3eaaa21b1d8fc24feae81270f6785c85/timeline",
+    "aviarios": [
+      "451"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "RODRIGO MARRETTO AMARAL",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/cff864d065caf7634d169fa7a9220dca/timeline",
+    "aviarios": [
+      "1265"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "MARTIM ROGÉRIO REINKE",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/cde4edc58ceb6108aed3a7c3d39e2827/timeline",
+    "aviarios": [
+      "138",
+      "521"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "PAULO RENATO LOCATELLI",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/2cd44c5fdacafef644006b5e7fc8a588/timeline",
+    "aviarios": [
+      "330",
+      "511"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "CARLOS JOSE GRIS",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/47aa53cd5e73e9190b4e404429a59f9a/timeline/2b344ab25d58009fb780f7ac09b2228e/162",
+    "aviarios": [
+      "237",
+      "238",
+      "541",
+      "667"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "IRENEO FELIPPE CHIELLA",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/6c291d4777b7e7ca8c9aa34c74b20f35/timeline",
+    "aviarios": [
+      "412"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "JUAREZ PASTORE",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/35c69b77efaf2a8a4694a104ce3fd181/timeline",
+    "aviarios": [
+      "108",
+      "357"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "FLAVIO CLAYTON SALVADOR",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/0b47fe6e68af12d55715e344aa6d3a47/timeline/06a25b95b2a7d080c569d6c6ae8bc2d2/1",
+    "aviarios": [
+      "1379",
+      "1380"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "FERNANDA BASSO BERTOLDI",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/900872a3af3a3909a1fb024e01a1b3f3/timeline",
+    "aviarios": [
+      "112",
+      "677"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "EDIMAR SANTOS",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/1862e2872611451178bfc571fb8e3a19/timeline",
+    "aviarios": [
+      "1022",
+      "622",
+      "722",
+      "910"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "HÉLIO ZAGO",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/0e66818a30700c926ae39510e7939e4f/timeline",
+    "aviarios": [
+      "1244",
+      "1245"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "NIVALDO EDER DE SOUZA",
+    "num_aviarios": 11,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/448563663d87b5b9fa4a26722d4a2119/timeline",
+    "aviarios": [
+      "335",
+      "336",
+      "378",
+      "598",
+      "717",
+      "718",
+      "732",
+      "742",
+      "753",
+      "754",
+      "755"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "OLAVIO LOFH",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/5738d31ead2fbfd3f645039d8a2e6d0b/timeline/2bc0bed9e5034f21f408fc1dc6bf171a/154",
+    "aviarios": [
+      "387"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "JOSÉ HENRIQUE DE OLIVEIRA NETO",
+    "num_aviarios": 5,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/5bd63fa0495e10b7423b12088b00a6c7/timeline/34d7b2aee88c8e8350fa43bcef26d8d5/119",
+    "aviarios": [
+      "1216",
+      "1217",
+      "514",
+      "515",
+      "944"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ACELINO LORENZETTI",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/51ad322eff4003399b01bbe9115f5950/timeline/f08743ee894af5c20d1a856a9c1faa66/176",
+    "aviarios": [
+      "151",
+      "152",
+      "869"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "AMARILDO DONIZETTI RIBEIRO",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/80a751e0f3f4c5bbf917397453ee0939/timeline",
+    "aviarios": [
+      "1162",
+      "1163"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "DENILSO LUPATINI",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/619bddd45060e4e3a143a6dc5998164d/timeline",
+    "aviarios": [
+      "133"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "FERNANDO VOLPATO MARQUES",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/c6e58c0956edd45a42c6304966782015/timeline/82596d6fcaafcb5d2285867f3026b74d/64",
+    "aviarios": [
+      "966",
+      "967"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "IVANILDA ALVES BARBOSA DAL BOIT",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/ab0c59c4f956b4cc33d93ee954847226/timeline",
+    "aviarios": [
+      "367"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "JAIR BARBACOVI",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/ae3b69716400548ee9040522ddf4097b/timeline",
+    "aviarios": [
+      "308",
+      "431"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "JAIR VANDERLEI SEIBOTH",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/1316ca67dba78e5957850827eaf91a34/timeline",
+    "aviarios": [
+      "132",
+      "408",
+      "437"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "JOSE ANGELO GUSSI",
+    "num_aviarios": 9,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/b0861c1a16e0d853bcc33946f1f562ff/timeline",
+    "aviarios": [
+      "1040",
+      "1041",
+      "1042",
+      "1043",
+      "1046",
+      "730",
+      "731",
+      "766",
+      "903"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "LUCIANO MASSAYOSHI WADA",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/983e10c0fe92074692cdccccfb09ba3c/timeline",
+    "aviarios": [
+      "714",
+      "792"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "MARCOS ROBERTO DE AZEVEDO",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/3f80d4f5270961151918ff3720d50504/timeline",
+    "aviarios": [
+      "1303"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "MARIA ANTÔNIA DRUZIANI SEBRIAN",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/183eec285617ffa5f2384851e2d81301/timeline",
+    "aviarios": [
+      "136",
+      "250"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "NELIO JOSÉ KUNH",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/01d5b89ebbb9a2a2309cdeb5df3dc7a8/timeline",
+    "aviarios": [
+      "600",
+      "601",
+      "602"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "SILVIA SANCHES",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/fc80a05c0db537611c05db0f36f26c19/timeline",
+    "aviarios": [
+      "708",
+      "739"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "WANDERLEY ANDREACCI CERICATTO",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/122db04bbfba1bc07415af54496c2688/timeline",
+    "aviarios": [
+      "593"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "RAFAEL ZAMIAN",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/f0004ee5472639c1ae6513f4acbee70e/timeline/44a5ef4e7d442a60a272275474e8bffd/126",
+    "aviarios": [
+      "473",
+      "943"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "AIRTON JOSÉ MOREIRA",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/16268ec0092faa7f9cbbbfe96f25d607/timeline/2d85294ecb56e33356ac5c09251bc192/160",
+    "aviarios": [
+      "1000",
+      "340",
+      "842"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ROSELIANE CALGARO HOFFMANN",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/943b1a56bcda59a592b7858fba42b647/timeline",
+    "aviarios": [
+      "1169",
+      "1170",
+      "1171",
+      "1172"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "JULIANO FALCONI MIOTTO",
+    "num_aviarios": 0,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/2d50c337d7f1f9746652ff4eea0b7522/timeline",
+    "aviarios": [],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "LUIS CARLOS MIOTTO",
+    "num_aviarios": 6,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/cc4ae2596b6079d24fc4f03130c51b02/timeline/0975ce5bc6cb9237270781f26818494a/124",
+    "aviarios": [
+      "170",
+      "171",
+      "337",
+      "882",
+      "883",
+      "884"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "EDIVAR ANTONIO MARQUEZIN",
+    "num_aviarios": 6,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/879cfc92de9da9d7b7fa468e278ea9e2/timeline",
+    "aviarios": [
+      "850",
+      "851",
+      "852",
+      "853",
+      "854",
+      "855"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "IVAIR DREON",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/3887f9c8dc1a3733e311791601adad4f/timeline/22e176b33a047ff5f06277b8c261ba17/176",
+    "aviarios": [
+      "140",
+      "303",
+      "783"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ORLANDO LOPES DE GOUVEIA",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/70b094f825e8137eb67b74fd4680624a/timeline",
+    "aviarios": [
+      "578",
+      "579"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "JOSE AUGUSTO PERACOLI COZER",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/2f1d0617c5a7243ae53ec691ec4e4e9b/timeline",
+    "aviarios": [
+      "1241",
+      "1242",
+      "1243",
+      "1315"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "FATIMA APARECIDA CRISPIM COSTA VILAR",
+    "num_aviarios": 0,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/162859dedfdbc330bad34733ee30b547/timeline",
+    "aviarios": [],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "JOAO FRANCISCO CRISPIM COSTA",
+    "num_aviarios": 0,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/5352df3633a8dd650f2af0ce553109e2/timeline",
+    "aviarios": [],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "CELSO MAERCIO CORDEIRO VILAR",
+    "num_aviarios": 0,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/0557a66efdff579ed5ca3b0f36ac0d31/timeline",
+    "aviarios": [],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "IGOR CRISPIM COSTA",
+    "num_aviarios": 0,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/c4c4bfce31fb76cb31d32c3c7d32cbb7/timeline",
+    "aviarios": [],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "CESAR CRISPIM VILAR",
+    "num_aviarios": 0,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/807011708f92af0866e490d778122265/timeline",
+    "aviarios": [],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "EDUARDO CRISPIM COSTA",
+    "num_aviarios": 8,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/4a543758e3905528ae82a62f66bea033/timeline",
+    "aviarios": [
+      "1068",
+      "1069",
+      "1141",
+      "1142",
+      "1143",
+      "1260",
+      "331",
+      "371"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "JOSE CARLOS CRISPIM COSTA",
+    "num_aviarios": 0,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/010ebbd55bffe641c8598b75e382572a/timeline",
+    "aviarios": [],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "CLEIFSON FERRARI GROSS",
+    "num_aviarios": 13,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/428127e7c4f63b89fb5ce8803518b494/timeline",
+    "aviarios": [
+      "125",
+      "126",
+      "1300",
+      "1301",
+      "163",
+      "168",
+      "186",
+      "243",
+      "244",
+      "246",
+      "567",
+      "568",
+      "860"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "CÁSSIA CRISTINA ROZANTE JORDEN",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/58120369cd32abb13f6a8eec15894c1b/timeline",
+    "aviarios": [
+      "975",
+      "995"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "MARCIO ROBERTO MICHELON",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/31228343c6a9f42c43038ed1521b200b/timeline",
+    "aviarios": [
+      "1202"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "MARLI RICHTER KAPPES",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/d8e8923e3cf45ca69eace35908c019d1/timeline/aa1da089d43329c10a6cda1eb00703b7/172",
+    "aviarios": [
+      "150",
+      "306"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "LEVI HARTWIG",
+    "num_aviarios": 5,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/4067d6271334c5e8db06a9ada1839554/timeline",
+    "aviarios": [
+      "105",
+      "1100",
+      "1101",
+      "191",
+      "204"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "NELSON TIETZ",
+    "num_aviarios": 1,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/0aa04a9ef6ef77dd446baaa02b3dcded/timeline",
+    "aviarios": [
+      "620"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "LUCIMAR BAIOCCO",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/22e81eb806af6f512847601ce3862bcb/timeline",
+    "aviarios": [
+      "1220",
+      "1221",
+      "1222"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "WILFRID FRITZKE",
+    "num_aviarios": 3,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/4c97b8169787b425f3a556a994036bf0/timeline",
+    "aviarios": [
+      "1099",
+      "596",
+      "890"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ADRIANO TOSHIO NAKAZAWA",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/e59cc393723602e6f5a7c667d1f3e930/timeline",
+    "aviarios": [
+      "495",
+      "496"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ADEILDO MIELNIK FERREIRA",
+    "num_aviarios": 0,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/5f227a45bdf0d8a12fdd9db8fe2ab71c/timeline",
+    "aviarios": [],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ADILSON APARECIDO DA MOTA",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/3f4ed02b174bcdd76493f95656655afe/timeline/e127a630191350e8eac85d455fa19bb0/107",
+    "aviarios": [
+      "1247",
+      "650"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ANDERSON NEI MORELATTO",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/b2b0f01ed3738849c5389949145dcfe0/timeline/5c813b11a6cddb0c654497a2acf182a2/102",
+    "aviarios": [
+      "1117",
+      "1118",
+      "665",
+      "666"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "VICTOR BARBARA",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/63c7079009a4376d1980bd2630ed8f73/timeline",
+    "aviarios": [
+      "279",
+      "628",
+      "878",
+      "879"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "MARCEL GILVAN LEONARDI",
+    "num_aviarios": 8,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/0ee4d20bb48ad254bb530629d4165741/timeline",
+    "aviarios": [
+      "1318",
+      "1319",
+      "1320",
+      "1321",
+      "1322",
+      "1323",
+      "1324",
+      "1325"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "JOSE MARCOS TORQUETE",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/8676e5b06b982f8e0dfc26316880b6aa/timeline",
+    "aviarios": [
+      "1135",
+      "1136",
+      "988",
+      "989"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "CELSO UTECH",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/10446d3986b6dd6f7f5d5c011613939f/timeline",
+    "aviarios": [
+      "1225",
+      "272",
+      "522",
+      "935"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "APARECIDO ROBERTO DIOTTO",
+    "num_aviarios": 2,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/7fdee87b171314755ad70d6f49665640/timeline",
+    "aviarios": [
+      "118",
+      "448"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "SUELI MARIA PEREIRA BENINCÁ",
+    "num_aviarios": 6,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/71db4549f1734e92b39fea3608edf618/timeline/47f4caf38a688beb6bc7ef834df93d40/158",
+    "aviarios": [
+      "351",
+      "352",
+      "353",
+      "354",
+      "936",
+      "937"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "ADEMIR ZAGO",
+    "num_aviarios": 4,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/4f0d4c35fb59784ba7649958a756e66b/timeline",
+    "aviarios": [
+      "1288",
+      "844",
+      "845",
+      "846"
+    ],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
+  },
+  {
+    "nome": "GABRIEL BORTOLOZZO BATTISTI",
+    "num_aviarios": 0,
+    "link": "https://prd-agrocenter.cvale.com.br/v3_aviculture/profile/d4819e9b365e95419f42d4a85069a9a6/timeline",
+    "aviarios": [],
+    "arquivo_origem": "AgroCenter - Perfil_BRUNO_HENRIQUE_NIELSEN_CONTER.html"
   }
 ]
