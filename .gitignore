@@ -13,8 +13,8 @@ __pycache__/
 *$py.class
 
 # Data (often too large or sensitive for git)
-# data/raw/
-# data/processed/
+data/raw/
+data/processed/
 
 # IDEs
 .idea/

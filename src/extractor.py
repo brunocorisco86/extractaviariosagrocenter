@@ -32,9 +32,6 @@ class AgroCenterExtractor:
         # Estratégia 1: Tabela de Produtores
         self._processar_tabela_produtores(soup, dict_produtores, arquivo_html.name)
         
-        # Estratégia 2: Tabela de Lotes em andamento
-        self._processar_tabela_lotes(soup, dict_produtores, arquivo_html.name)
-
         # Finalizar lista para este arquivo
         lista_arquivo = []
         for nome, info in dict_produtores.items():
@@ -74,50 +71,9 @@ class AgroCenterExtractor:
                 for cell in collapse_row.find_all('td', class_='MuiTableCell-sizeSmall'):
                     if not cell.find('button'):
                         av_nome = cell.get_text(strip=True)
-                        if av_nome and re.search(r'AVIARIO\s+\d+', av_nome.upper()):
+                        # Busca por qualquer número no texto do aviário
+                        if av_nome and re.search(r'\d+', av_nome):
                             dict_produtores[nome]['aviarios'].add(av_nome)
-
-    def _processar_tabela_lotes(self, soup, dict_produtores, filename):
-        # Busca por "Lotes em andamento" em qualquer lugar (span, h6, etc)
-        title = soup.find(lambda tag: tag.name in ['span', 'h6', 'p'] and 'Lotes em andamento' in tag.get_text())
-        if not title: return
-
-        # Encontrar a tabela mais próxima abaixo do título
-        container = title.find_parent('div')
-        table = None
-        while container and not table:
-            table = container.find('table', class_='MuiTable-root')
-            container = container.find_next_sibling('div') if not table else container
-
-        if not table: return
-
-        header_cells = table.find('thead').find_all('th') if table.find('thead') else []
-        if not header_cells:
-            # Tenta pegar a primeira linha do body se não houver thead (raro mas possível)
-            first_row = table.find('tr')
-            header_cells = first_row.find_all(['td', 'th']) if first_row else []
-
-        col_map = {
-            'aviario': next((i for i, h in enumerate(header_cells) if 'Aviário' in h.get_text()), None),
-            'produtor': next((i for i, h in enumerate(header_cells) if 'Produtor' in h.get_text()), None)
-        }
-
-        if col_map['aviario'] is not None and col_map['produtor'] is not None:
-            body = table.find('tbody')
-            rows = body.find_all('tr', class_='MuiTableRow-root') if body else table.find_all('tr')[1:]
-            for row in rows:
-                cells = row.find_all('td', class_='MuiTableCell-root')
-                if len(cells) > max(col_map.values()):
-                    av = cells[col_map['aviario']].get_text(strip=True)
-                    prod = cells[col_map['produtor']].get_text(strip=True)
-
-                    if av and prod and len(prod.split()) >= 2:
-                        if prod not in dict_produtores:
-                            dict_produtores[prod] = {
-                                'nome': prod, 'num_aviarios': 0, 'link': '',
-                                'aviarios': set(), 'arquivo_origem': filename
-                            }
-                        dict_produtores[prod]['aviarios'].add(av)
 
     def run(self):
         """Executa o processo completo de extração e salvamento."""
